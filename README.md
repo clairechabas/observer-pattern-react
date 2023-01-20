@@ -1,4 +1,4 @@
-📟 A simple implementation of the Observer pattern in React
+# 📟 A simple implementation of the Observer pattern in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
